@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "FNM.C": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "string": "cpp"
+    }
+}
